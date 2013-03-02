@@ -10,4 +10,10 @@ Open IntelliJ and : `File` then `Import Settings ...` and select `golo.file.type
 
 ![Alt "golostorm.png"](https://github.com/k33g/golo-storm/raw/master/rsrc/golostorm.png)
 
+##License
+
+Golo-storm is available under the terms of the [MIT-License](http://en.wikipedia.org/wiki/MIT_License#License_terms).
+
+Copyright 2013, Philippe Charrière
+
 
