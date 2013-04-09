@@ -4,7 +4,8 @@ This is IntelliJ syntax definition (only colors) for [Golo](http://golo-lang.org
 
 ##Installation
 
-Open IntelliJ and : `File` then `Import Settings ...` and select `golo.file.type.settings.jar`.
+- `git clone https://github.com/k33g/golo-storm.git`
+- then open IntelliJ and : `File` then `Import Settings ...` and select `golo.file.type.settings.jar`.
 
 ##Have fun
 
